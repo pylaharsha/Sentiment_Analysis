@@ -16,6 +16,7 @@ Amazon reviews. (2021, May 15). Kaggle. https://www.kaggle.com/datasets/kritanja
 ## Model Selection and Training
 
 **Naive Bayes**: A probabilistic classifier based on Bayes' theorem, suitable for text classification tasks.
+
 **Logistic Regression**: A linear model for binary classification that predicts the probability of a binary response.
 
 ## Model Evaluation
