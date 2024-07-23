@@ -42,6 +42,6 @@ Achieved an accuracy of 0.85.
 Both models were evaluated using accuracy and classification reports. Logistic Regression outperformed Naive Bayes in terms of accuracy.
 
 ## Future Work
---> Experiment with more advanced models like LSTM and Transformers.
---> Fine-tune hyperparameters for better performance.
---> Utilize a larger dataset for more comprehensive training.
+1. Experiment with more advanced models like LSTM and Transformers.
+2. Fine-tune hyperparameters for better performance.
+3. Utilize a larger dataset for more comprehensive training.
