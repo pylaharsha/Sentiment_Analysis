@@ -34,6 +34,7 @@ Amazon reviews. (2021, May 15). Kaggle. https://www.kaggle.com/datasets/kritanja
 The performance of the models is as follows:
 
 **Naive Bayes**: Achieved an accuracy of 0.83 on the test dataset.
+
 **Logistic Regression**: Achieved an accuracy of 0.85 on the test dataset.
 
 ## Conclusion
